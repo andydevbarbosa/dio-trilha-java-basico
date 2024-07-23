@@ -5,6 +5,13 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "type": "java",
+            "name": "Operadores",
+            "request": "launch",
+            "mainClass": "Operadores",
+            "projectName": "dio-trilha-java-basico_ba66720a"
+        },
+        {
             "name": "Java",
             "type": "java",
             "request": "launch",
